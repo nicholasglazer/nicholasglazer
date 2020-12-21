@@ -3,7 +3,7 @@
 #+TAGS: javascript development react enterprise web3 nextjs
 
 *** Hire
-Working with enterprise and sturtaps to boost your business on any stage. \\
+I work with enterprises and startups to boost your business on any stage. \\
 Web engineer/adviser with 7 years of experience.
 
 Serverless architectures based on aws/blockchain/cdn(static). \\
