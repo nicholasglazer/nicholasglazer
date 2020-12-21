@@ -1,15 +1,18 @@
-#+TITLE: engineer/adviser
+#+TITLE:
 #+TAGS: @javascript @react @solidity @blockchain @nextjs @archlinux @xmonad @haskell
 #+TAGS: javascript development react enterprise web3 nextjs
 
+
 Working with enterprise and sturtaps to boost your business on any stage.
+Web engineer/adviser with 7 years of experience.
 
-Modern React/Nextjs webapps/web3 blockchain.
+Serverless architectures based on aws/blockchain/cdn(static).
+Modern webapps - React/Redux/Nextjs.
 
-Right now I'm available for a projects/hire
+Right now I'm available for hire.
+
 DM with [[https://t.me/zeroxone][telegram]]
 
 
-Occasionally writing about linux[fn:1].
-...
-[fn:1] The link is: https://archcheatsheet.com
+Latest fully decentralized web3 product - https://dropmyfile.com
+Occasionally writing about linux - https://archcheatsheet.com
