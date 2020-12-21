@@ -1,7 +1,15 @@
-#+TITLE: Nicholas Glazer
+#+TITLE: engineer/adviser
+#+TAGS: @javascript @react @solidity @blockchain @nextjs @archlinux @xmonad @haskell
+#+TAGS: javascript development react enterprise web3 nextjs
 
 Working with enterprise and sturtaps to boost your business on any stage.
 
 Modern React/Nextjs webapps/web3 blockchain.
 
+Right now I'm available for a projects/hire
 DM with [[https://t.me/zeroxone][telegram]]
+
+
+Occasionally writing about linux[fn:1].
+...
+[fn:1] The link is: https://archcheatsheet.com
