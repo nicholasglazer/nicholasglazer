@@ -1,17 +1,14 @@
 #+TITLE:
-#+TAGS: @javascript @react @solidity @blockchain @nextjs @archlinux @xmonad @haskell
+#+TAGS: @javascript @react @hooks @solidity @NFT @zustand @hardhat @blockchain @nextjs @archlinux @xmonad @haskell
 #+TAGS: javascript development react enterprise web3 nextjs
 
 *** Hire
-I work with enterprises and startups to boost your business on any stage. \\
+I work with enterprises and startups. \\
 Web engineer/adviser with 7 years of experience.
 
-Serverless architectures based on aws/blockchain/cdn(static). \\
-Modern webapps - React/Redux/Nextjs.
-
-#+BEGIN_CENTER
-Right now I'm available for hire.
-#+END_CENTER
+Serverless architectures. \\
+NFTs, blockchain.
+Modern webapps - React/Zustand/Nextjs/Hardhat.
 
 *** Contact
 DM with [[https://t.me/zeroxone][telegram]]
