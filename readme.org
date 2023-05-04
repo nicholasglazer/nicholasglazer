@@ -1,18 +1,17 @@
 #+TITLE:
-#+TAGS: @javascript @react @hooks @solidity @NFT @zustand @hardhat @blockchain @nextjs @archlinux @xmonad @haskell
+#+TAGS: @javascript @react @hooks @tailwind @zustand @hardhat @blockchain @nextjs @archlinux @xmonad @haskell
 #+TAGS: javascript development react enterprise web3 nextjs
 
-*** Hire
-I work with enterprises and startups. \\
-Web engineer/adviser with 7 years of experience.
-
-Serverless architectures. \\
-NFTs, blockchain.
-Modern webapps - React/Zustand/Nextjs/Hardhat.
+Hi there! I'm a software engineer with 9 years of experience working with enterprises and startups. \\
+My expertise lies in web development, and I specialize in React, Zustand, and Next.js.
 
 *** Contact
 DM with [[https://t.me/zeroxone][telegram]]
 
 *** See also
-- Latest fully decentralized web3 product - https://dropmyfile.com
-- Occasionally writing about linux - https://archcheatsheet.com
+- Blockchain file-sharing platform that ensures your files remain private and secure \\ 
+https://dropmyfile.com
+- Arch Linux minimal desktop environment based on the xmonad window manager. It's a lightweight and customizable solution for developers who want a       minimalistic Linux setup that does't require mouse \\
+https://miozu.com
+- Modern form builder demo (desktop version) that showcases the latest front-end development techniques \\
+https://form-builder-beta.vercel.app
