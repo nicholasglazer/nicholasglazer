@@ -3,17 +3,17 @@
 #+TAGS: javascript development react enterprise web3 nextjs
 
 Over a decade of experience working with businesses. \\
-Full-stack development, web apps architecture, easy communication! \\
+Full-stack development, web apps architecture, easy communication!
 
 *** Contact
 DM with [[https://t.me/zeroxone][telegram]]
 
 *** See also
-- Educational platform for Ukrainian market \ Svelte\Nodejs\Postgres \\ 
+Educational platform for Ukrainian market \ Svelte\Nodejs\Postgres \\ 
 https://molodist.net
-- Blockchain file-sharing platform that ensures your files remain private and secure \\ 
+Blockchain file-sharing platform that ensures your files remain private and secure \\ 
 https://dropmyfile.com
-- Arch Linux minimal desktop environment based on the xmonad window manager. It's a lightweight and customizable solution for developers who want a       minimalistic Linux setup that does't require mouse \\
+Arch Linux minimal desktop environment based on the xmonad window manager. It's a lightweight and customizable solution for developers who want a       minimalistic Linux setup that does't require mouse \\
 https://miozu.com
-- Modern form builder demo (desktop version) that showcases the latest front-end development techniques \\
+Modern form builder demo (desktop version) that showcases the latest front-end development techniques \\
 https://form-builder-beta.vercel.app
